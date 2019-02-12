@@ -40,7 +40,7 @@ brew "eddieantonio/eddieantonio/imgcat"
 # Applications
 ## Development
 cask "pycharm"
-cask "gogland"
+cask "goland"
 cask "webstorm"
 cask "clion"
 cask "anaconda"
