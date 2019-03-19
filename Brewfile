@@ -20,6 +20,7 @@ brew "fish"
 brew "fzf"
 brew "git"
 brew "git-lfs"
+brew "gist"
 brew "hexyl"
 brew "irssi"
 brew "jq"
@@ -36,9 +37,13 @@ brew "mysql", restart_service: true
 brew "postgresql", restart_service: true
 brew "mongodb", restart_service: true
 brew "eddieantonio/eddieantonio/imgcat"
+brew "kubernetes-cli", link: false
+brew "docker-machine-driver-hyperkit"
 
 # Applications
 ## Development
+cask "intellij-idea"
+cask "rubymine"
 cask "pycharm"
 cask "goland"
 cask "webstorm"
@@ -48,12 +53,15 @@ cask "android-studio"
 cask "datagrip"
 cask "docker"
 cask "postman"
+cask "paw"
 cask "sequel-pro"
 cask "sublime-text"
 cask "visual-studio-code"
 cask "vmware-fusion"
 cask "iterm2"
 cask "java"
+cask "virtualbox"
+cask "minikube"
 
 ## Browsers
 cask "google-chrome"
@@ -73,6 +81,7 @@ cask "flux"
 cask "hyperswitch"
 cask "imageoptim"
 cask "cyberduck"
+cask "tunnelblick"
 
 ## App
 cask "between"
