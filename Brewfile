@@ -82,6 +82,7 @@ cask "hyperswitch"
 cask "imageoptim"
 cask "cyberduck"
 cask "tunnelblick"
+cask "dozer"
 
 ## App
 cask "between"
