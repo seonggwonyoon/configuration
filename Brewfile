@@ -97,6 +97,7 @@ cask "webquicklook"
 cask "suspicious-package"
 cask "quicklookase"
 cask "qlvideo"
+cask "keybase"
 
 ## App
 cask "between"
