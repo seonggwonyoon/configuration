@@ -99,6 +99,7 @@ cask "quicklookase"
 cask "qlvideo"
 cask "keybase"
 cask "keka"
+cask "termhere"
 
 ## App
 cask "between"
