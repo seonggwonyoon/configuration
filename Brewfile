@@ -98,6 +98,7 @@ cask "suspicious-package"
 cask "quicklookase"
 cask "qlvideo"
 cask "keybase"
+cask "keka"
 
 ## App
 cask "between"
