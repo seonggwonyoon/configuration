@@ -33,6 +33,8 @@ brew "unzip"
 brew "vim"
 brew "wget"
 brew "yarn"
+brew "lazygit"
+brew "bat"
 brew "mysql", restart_service: true
 brew "postgresql", restart_service: true
 brew "mongodb", restart_service: true
@@ -100,6 +102,8 @@ cask "qlvideo"
 cask "keybase"
 cask "keka"
 cask "termhere"
+cask "toggl"
+cask "shortcat"
 
 ## App
 cask "between"
