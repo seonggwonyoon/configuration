@@ -41,6 +41,7 @@ brew "mongodb", restart_service: true
 brew "eddieantonio/eddieantonio/imgcat"
 brew "kubernetes-cli", link: false
 brew "docker-machine-driver-hyperkit"
+brew "htop"
 
 # Applications
 ## Development
@@ -104,6 +105,7 @@ cask "keka"
 cask "termhere"
 cask "toggl"
 cask "shortcat"
+cask "mysqlworkbench"
 
 ## App
 cask "between"
