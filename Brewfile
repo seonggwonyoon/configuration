@@ -106,6 +106,7 @@ cask "termhere"
 cask "toggl"
 cask "shortcat"
 cask "mysqlworkbench"
+cask "spotify"
 
 ## App
 cask "between"
@@ -114,5 +115,4 @@ cask "telegram"
 
 ## Fonts
 cask "font-fira-code"
-cask "font-hack-nerd-font"
-cask "font-noto-sans-cjk-kr"
+cask "font-hack-nerd-font"cask "font-noto-sans-cjk-kr"
