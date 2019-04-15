@@ -1,5 +1,17 @@
+# Yarn
+
 export PATH="$PATH:`yarn global bin`"
+
+# Anaconda 3
 
 export PATH="$PATH:/usr/local/anaconda3/bin"
 
+# Downloads
+
 export PATH="$PATH:/Users/ted/Downloads"
+
+# GO
+export GOPATH=$HOME/usr/local/bin/go
+export GOROOT=/usr/local/opt/go/libexec
+export PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:$GOROOT/bin
