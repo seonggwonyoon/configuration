@@ -42,6 +42,8 @@ brew "eddieantonio/eddieantonio/imgcat"
 brew "kubernetes-cli", link: false
 brew "docker-machine-driver-hyperkit"
 brew "htop"
+brew "golang"
+brew "socat"
 
 # Applications
 ## Development
