@@ -1,0 +1,5 @@
+export PATH="$PATH:`yarn global bin`"
+
+export PATH="$PATH:/usr/local/anaconda3/bin"
+
+export PATH="$PATH:/Users/ted/Downloads"
