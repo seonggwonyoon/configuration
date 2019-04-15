@@ -2,4 +2,4 @@
 /Users/@gwons
 
 ## Preview
-![terminal](https://github.com/gwons/dotfiles/tree/master/img/terminal.png)
+![terminal](https://raw.githubusercontent.com/gwons/dotfiles/master/img/terminal.png)
