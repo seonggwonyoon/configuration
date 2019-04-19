@@ -116,5 +116,6 @@ cask "discord"
 cask "telegram"
 
 ## Fonts
-cask "font-fira-code"
-cask "font-hack-nerd-font"cask "font-noto-sans-cjk-kr"
+cask "font-fira-mono-for-powerline"
+cask "font-hack-nerd-font"
+cask "font-noto-sans-cjk-kr"
