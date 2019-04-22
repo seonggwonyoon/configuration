@@ -11,3 +11,5 @@ fi
 . ~/.dotfiles/zsh/paths
 
 . ~/.dotfiles/zsh/plugins
+
+. ~/.dotfiles/zsh/theme
