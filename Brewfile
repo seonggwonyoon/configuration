@@ -113,6 +113,8 @@ cask "mysqlworkbench"
 cask "spotify"
 cask "parallels"
 cask "istat-menus"
+cask "fantastical"
+cask "pdf-expert"
 
 ## App
 cask "between"
