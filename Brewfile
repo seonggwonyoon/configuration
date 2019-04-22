@@ -112,6 +112,7 @@ cask "shortcat"
 cask "mysqlworkbench"
 cask "spotify"
 cask "parallels"
+cask "istat-menus"
 
 ## App
 cask "between"
