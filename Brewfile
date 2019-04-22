@@ -44,6 +44,8 @@ brew "docker-machine-driver-hyperkit"
 brew "htop"
 brew "golang"
 brew "socat"
+brew "kompose"
+brew "awscli"
 
 # Applications
 ## Development
@@ -109,6 +111,7 @@ cask "toggl"
 cask "shortcat"
 cask "mysqlworkbench"
 cask "spotify"
+cask "parallels"
 
 ## App
 cask "between"
