@@ -115,6 +115,7 @@ cask "parallels"
 cask "istat-menus"
 cask "fantastical"
 cask "pdf-expert"
+cask "karabiner-elements"
 
 ## App
 cask "between"
