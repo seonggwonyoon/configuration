@@ -1,14 +1,11 @@
 # Yarn
-
 export PATH="$PATH:`yarn global bin`"
 
 # Anaconda 3
-
 export PATH="$PATH:/usr/local/anaconda3/bin"
 
-# Downloads
-
-export PATH="$PATH:/Users/ted/Downloads"
+# bin
+export PATH="$PATH:/Users/ted/Workspace/bin"
 
 # GO
 export GOPATH=$HOME/usr/local/bin/go
