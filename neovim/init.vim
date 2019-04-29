@@ -7,6 +7,7 @@ Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'arcticicestudio/nord-vim', { 'on':  'NERDTreeToggle' }
 Plug 'airblade/vim-gitgutter'
+Plug 'Yggdroot/indentLine'
 
 call plug#end()
 " End vim-plug
@@ -18,12 +19,12 @@ set laststatus=2
 
 " Set TMUX
 if (empty($TMUX))
-  if (has("nvim"))
-  let $NVIM_TUI_ENABLE_TRUE_COLOR=1
-  endif
-  if (has("termguicolors"))
-    set termguicolors
-  endif
+    if (has("nvim"))
+        let $NVIM_TUI_ENABLE_TRUE_COLOR=1
+    endif
+    if (has("termguicolors"))
+        set termguicolors
+    endif
 endif
 
 " Set colorscheme
@@ -37,5 +38,20 @@ let NERDTreeShowLineNumbers=1
 let g:NERDTreeWinPos = "right"
 
 " Others
-set nu
-set tabstop=4 shiftwidth=4 expandtab
+set number
+set backspace=2
+set autoindent
+set nowrapscan
+set ignorecase
+set ruler
+set tabstop=4
+set shiftwidth=4
+set showcmd
+set showmatch
+set linespace=3
+set title
+set encoding=utf-8 fileencodings=ucs-bom,utf-8,cp949,korea,iso-2022-kr
+set expandtab "Tab to space"
+set mouse=a
+
+let g:indentLine_setColors = 0
