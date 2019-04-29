@@ -14,9 +14,7 @@ cask_args appdir: "/Applications"
 brew "autoenv"
 brew "autojump"
 brew "binwalk"
-brew "fasd"
 brew "fd"
-brew "fish"
 brew "fzf"
 brew "git"
 brew "git-lfs"
@@ -46,6 +44,7 @@ brew "golang"
 brew "socat"
 brew "kompose"
 brew "awscli"
+brew "git-extras"
 
 # Applications
 ## Development
@@ -74,7 +73,6 @@ cask "ngrok"
 
 ## Browsers
 cask "google-chrome"
-cask "firefox"
 
 ## Productivity
 cask "alfred"
@@ -82,7 +80,6 @@ cask "dash"
 cask "typora"
 cask "notion"
 cask "slack"
-cask "bettertouchtool"
 
 ## Utilities
 cask "anydesk"
@@ -95,15 +92,6 @@ cask "tunnelblick"
 cask "dozer"
 cask "macs-fan-control"
 cask "google-backup-and-sync"
-cask "qlcolorcode"
-cask "qlstephen"
-cask "qlmarkdown"
-cask "quicklook-json"
-cask "qlimagesize"
-cask "webquicklook"
-cask "suspicious-package"
-cask "quicklookase"
-cask "qlvideo"
 cask "keybase"
 cask "keka"
 cask "termhere"
@@ -116,6 +104,7 @@ cask "istat-menus"
 cask "fantastical"
 cask "pdf-expert"
 cask "karabiner-elements"
+cask "teamviewer"
 
 ## App
 cask "between"
