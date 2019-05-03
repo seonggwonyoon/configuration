@@ -45,6 +45,7 @@ brew "socat"
 brew "kompose"
 brew "awscli"
 brew "git-extras"
+brew "hub"
 
 # Applications
 ## Development
