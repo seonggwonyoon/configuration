@@ -107,6 +107,7 @@ cask "fantastical"
 cask "pdf-expert"
 cask "karabiner-elements"
 cask "teamviewer"
+cask "rescuetime"
 
 ## App
 cask "between"
