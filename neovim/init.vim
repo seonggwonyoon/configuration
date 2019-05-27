@@ -3,11 +3,13 @@ call plug#begin('~/.vim/plugged')
 
 " Input Using Plugins
 Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
 Plug 'scrooloose/nerdtree', { 'on':  'NERDTreeToggle' }
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plug 'arcticicestudio/nord-vim', { 'on':  'NERDTreeToggle' }
 Plug 'airblade/vim-gitgutter'
 Plug 'Yggdroot/indentLine'
+Plug 'dracula/vim', { 'as': 'dracula' }
 
 call plug#end()
 " End vim-plug
@@ -16,6 +18,8 @@ call plug#end()
 let g:airline_powerline_fonts = 1
 let g:airline#extensions#tabline#enabled = 1
 set laststatus=2
+
+color dracula
 
 " Set TMUX
 if (empty($TMUX))
@@ -28,7 +32,7 @@ if (empty($TMUX))
 endif
 
 " Set colorscheme
-colorscheme nord
+let g:airline_theme='dracula'
 
 " NERDTree
 autocmd BufEnter * lcd %:p:h
