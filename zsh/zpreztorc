@@ -39,9 +39,6 @@ zstyle ':prezto:load' pmodule \
   'git' \
   'syntax-highlighting' \
   'autosuggestions' \
-  'history-substring-search' \
-  'node' \
-#
 
 # Set the query found color.
 # zstyle ':prezto:module:autosuggestions:color' found ''
