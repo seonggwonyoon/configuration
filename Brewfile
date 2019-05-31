@@ -30,7 +30,6 @@ brew "tmux"
 brew "unzip"
 brew "vim"
 brew "wget"
-brew "yarn"
 brew "lazygit"
 brew "bat"
 brew "mysql", restart_service: true
@@ -46,6 +45,7 @@ brew "kompose"
 brew "awscli"
 brew "git-extras"
 brew "hub"
+brew "Schniz/tap/fnm"
 
 # Applications
 ## Development
