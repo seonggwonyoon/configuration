@@ -33,6 +33,7 @@ brew "wget"
 brew "lazygit"
 brew "bat"
 brew "mysql", restart_service: true
+brew "redis", restart_service: true
 brew "postgresql", restart_service: true
 brew "mongodb", restart_service: true
 brew "eddieantonio/eddieantonio/imgcat"
@@ -46,6 +47,7 @@ brew "awscli"
 brew "git-extras"
 brew "hub"
 brew "Schniz/tap/fnm"
+brew "tree"
 
 # Applications
 ## Development
@@ -108,6 +110,7 @@ cask "pdf-expert"
 cask "karabiner-elements"
 cask "teamviewer"
 cask "rescuetime"
+cask "background-music"
 
 ## App
 cask "between"
