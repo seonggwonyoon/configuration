@@ -30,6 +30,8 @@ brew "tmux"
 brew "unzip"
 brew "vim"
 brew "wget"
+brew "node"
+brew "yarn"
 brew "lazygit"
 brew "bat"
 brew "mysql", restart_service: true
