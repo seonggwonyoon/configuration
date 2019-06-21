@@ -703,8 +703,6 @@
 	<true/>
 	<key>LoadPrefsFromCustomFolder</key>
 	<true/>
-	<key>NSFontPanelAttributes</key>
-	<string>1, 0</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/.dotfiles/iterm</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
@@ -740,21 +738,16 @@
 	</data>
 	<key>NSTableView Supports v2 KeyBingingTable</key>
 	<true/>
-	<key>NSToolbar Configuration com.apple.NSColorPanel</key>
-	<dict>
-		<key>TB Is Shown</key>
-		<integer>1</integer>
-	</dict>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>2982 -155 798 340 1920 -240 2560 1440 </string>
-	<key>NSWindow Frame SessionsPreferences</key>
-	<string>2189 -114 606 469 1920 -240 2560 1440 </string>
+	<string>1409 110 445 103 0 0 1920 1177 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>3064 657 796 486 1920 -240 2560 1440 </string>
+	<string>340 425 918 514 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>1920 -240 2560 1417 1920 -240 2560 1417 </string>
-	<key>NSWindow Frame iTerm Window 1</key>
-	<string>1920 219 1842 909 1920 -240 2560 1440 </string>
+	<string>640 53 1274 1124 0 0 1920 1177 </string>
+	<key>NeverWarnAboutShortLivedSessions_60E7E165-A909-49C6-A4AD-DF7129BAC6FA</key>
+	<true/>
+	<key>NeverWarnAboutShortLivedSessions_60E7E165-A909-49C6-A4AD-DF7129BAC6FA_selection</key>
+	<integer>0</integer>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -1331,11 +1324,11 @@
 			<key>Name</key>
 			<string>Default</string>
 			<key>Non Ascii Font</key>
-			<string>InputMono-Medium 14</string>
+			<string>SFMonoNerdFontC-Regular 14</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>InputMono-Light 14</string>
+			<string>SFMonoNerdFontC-Regular 14</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -1400,20 +1393,12 @@
 			<string>/Users/keyakoto</string>
 		</dict>
 	</array>
-	<key>NoSyncHaveRequestedFullDiskAccess</key>
-	<true/>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
-	<string>2A6EB297-DD62-46AA-850F-64CF500A6B22</string>
-	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
-	<true/>
-	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
-	<integer>0</integer>
-	<key>NoSyncPermissionToShowTip</key>
-	<false/>
+	<string>E3361470-BBBA-4E86-8483-C07492A47C03</string>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
-	<real>573383339.55715001</real>
+	<real>582596509.71814203</real>
 	<key>PMPrintingExpandedStateForPrint2</key>
 	<false/>
 	<key>PointerActions</key>
@@ -1458,7 +1443,7 @@
 	<key>SUFeedAlternateAppNameKey</key>
 	<string>iTerm</string>
 	<key>SUFeedURL</key>
-	<string>https://iterm2.com/appcasts/final.xml?shard=29</string>
+	<string>https://iterm2.com/appcasts/final.xml?shard=66</string>
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SUSendProfileInfo</key>
