@@ -112,7 +112,6 @@ cask "pdf-expert"
 cask "karabiner-elements"
 cask "teamviewer"
 cask "rescuetime"
-cask "background-music"
 
 ## App
 cask "between"
@@ -120,9 +119,4 @@ cask "discord"
 cask "telegram"
 
 ## Fonts
-cask "font-fira-mono-for-powerline"
-cask "font-hack-nerd-font"
-cask "font-noto-sans-cjk-kr"
-cask "font-source-code-pro"
-cask "font-hack"
-cask "font-input"
+cask "font-source-code-pro-for-powerline"
