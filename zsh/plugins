@@ -13,10 +13,7 @@ eval "`fnm env --multi`"
 # thefuck
 eval $(thefuck --alias)
 
-autoload -U +X bashcompinit && bashcompinit
-complete -o nospace -C /Users/ted/Downloads/vault vault
-
 # virtualenv wrapper
-export WORKON_HOME=~/.virtualenvs
-export VIRTUALENVWRAPPER_PYTHON='/usr/local/bin/python3'
-source /usr/local/bin/virtualenvwrapper.sh
+#export WORKON_HOME=~/.virtualenvs
+#export VIRTUALENVWRAPPER_PYTHON='/usr/local/bin/python3'
+#source /usr/local/bin/virtualenvwrapper.sh

@@ -113,10 +113,5 @@ cask "karabiner-elements"
 cask "teamviewer"
 cask "rescuetime"
 
-## App
-cask "between"
-cask "discord"
-cask "telegram"
-
 ## Fonts
-cask "font-source-code-pro-for-powerline"
+cask "font-hack"
