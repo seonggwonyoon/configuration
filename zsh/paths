@@ -8,7 +8,7 @@ export PATH="$PATH:`yarn global bin`"
 export PATH="$PATH:/usr/local/anaconda3/bin"
 
 # bin
-export PATH="$PATH:/Users/ted/Workspace/bin"
+export PATH="$PATH:/Users/keyakoto/Workspace/bin"
 
 # GO
 export GOPATH=$HOME/usr/local/bin/go

@@ -115,3 +115,4 @@ cask "rescuetime"
 
 ## Fonts
 cask "font-hack"
+cask "font-cascadia"
