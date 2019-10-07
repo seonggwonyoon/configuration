@@ -1,5 +1,5 @@
 # dotfiles
-/Users/@yoonseonggwon
+/Users/@seonggwonyoon
 
 ## Install
 ```bash
