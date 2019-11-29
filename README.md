@@ -2,16 +2,14 @@
 /Users/@seonggwonyoon
 
 ## Install
-```bash
-git clone https://github.com/yoonseonggwon/dotfiles.git ~/.dotfiles
-cd ~/.dotfiles
-brew bundle
+```
+Writing...
 ```
 
 ## Upgrade
-```bash
-brew upgrade; brew cu -facy
+```
+Writing...
 ```
 
 ## Preview
-![terminal](https://raw.githubusercontent.com/gwons/dotfiles/master/img/terminal.png)
+![terminal](https://raw.githubusercontent.com/gwons/dotfiles/master/assets/terminal.png)
