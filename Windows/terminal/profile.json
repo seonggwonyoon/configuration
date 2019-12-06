@@ -15,7 +15,7 @@
             "commandline": "cmd.exe",
             "hidden": false,
             "historySize" : 9001,
-            "fontFace" : "Fira Code",
+            "fontFace" : "Fira Code Retina",
             "fontSize" : 12
         },
         {
@@ -25,7 +25,7 @@
             "name": "Ubuntu",
             "historySize" : 9001,
             "source": "Windows.Terminal.Wsl",
-            "fontFace" : "Fira Code",
+            "fontFace" : "Fira Code Retina",
             "fontSize" : 12
         },
         {
