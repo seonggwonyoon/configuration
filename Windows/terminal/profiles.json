@@ -1,6 +1,6 @@
 {
     "$schema": "https://aka.ms/terminal-profiles-schema",
-    "defaultProfile": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+    "defaultProfile": "{2c4de342-38b7-51cf-b940-2309a097f518}",
     "profiles":
     [
         {
@@ -19,11 +19,16 @@
             "fontSize" : 12
         },
         {
-            "acrylicOpacity" : 0.5,
             "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
             "hidden": false,
             "name": "Ubuntu",
             "historySize" : 9001,
+            "useAcrylic" : true,
+            "acrylicOpacity" : 0.75,
+            "colorScheme" : "One Half Dark",
+            "cursorColor" : "#00FF00",
+            "cursorHeight" : 25,
+            "cursorShape" : "vintage",
             "source": "Windows.Terminal.Wsl",
             "fontFace" : "Fira Code Retina",
             "fontSize" : 12
@@ -36,5 +41,10 @@
         }
     ],
     "schemes": [],
-    "keybindings": []
+    "keybindings": [
+        {
+            "command": "closeTab",
+            "keys": ["ctrl+w"]
+        }
+    ]
 }
