@@ -10,15 +10,6 @@
             "hidden": true
         },
         {
-            "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
-            "name": "cmd",
-            "commandline": "cmd.exe",
-            "hidden": false,
-            "historySize" : 9001,
-            "fontFace" : "Fira Code Retina",
-            "fontSize" : 12
-        },
-        {
             "guid": "{2c4de342-38b7-51cf-b940-2309a097f518}",
             "colorScheme": "Seti",
             "hidden": false,
@@ -26,6 +17,15 @@
             "historySize" : 9001,
             "source": "Windows.Terminal.Wsl",
             "cursorShape": "filledBox",
+            "fontFace" : "Fira Code Retina",
+            "fontSize" : 12
+        },
+        {
+            "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+            "name": "cmd",
+            "commandline": "cmd.exe",
+            "hidden": true,
+            "historySize" : 9001,
             "fontFace" : "Fira Code Retina",
             "fontSize" : 12
         },
@@ -57,7 +57,7 @@
             "brightWhite": "#ffffff",
             "background": "#111213",
             "foreground": "#cacecd"
-          }          
+          }
     ],
     "keybindings": [
         {
