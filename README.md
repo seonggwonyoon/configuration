@@ -12,4 +12,9 @@ Writing...
 ```
 
 ## Preview
-![terminal](https://raw.githubusercontent.com/gwons/dotfiles/master/assets/terminal.png)
+
+### Windows
+![windows](https://raw.githubusercontent.com/seonggwonyoon/dotfiles/master/assets/windows.png)
+
+### MacOS
+![macos](https://raw.githubusercontent.com/seonggwonyoon/dotfiles/master/assets/macos.png)
