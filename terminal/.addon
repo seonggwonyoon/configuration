@@ -1,0 +1,5 @@
+# activate fzf
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+# add kubernetes prompt info
+PROMPT='$(kube_ps1)'$PROMPT

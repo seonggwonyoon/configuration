@@ -1,0 +1,3 @@
+alias bu="brew upgrade; brew cu -acy"
+alias vi="nvim"
+alias vim="nvim"

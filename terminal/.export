@@ -1,0 +1,6 @@
+# add krew
+export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
+
+# change default editor
+export EDITOR=nvim
+export VISUAL="$EDITOR"
