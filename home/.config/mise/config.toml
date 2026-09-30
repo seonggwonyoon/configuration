@@ -1,0 +1,7 @@
+[tools]
+go = "latest"
+terraform = "latest"
+helm = "latest"
+argocd = "latest"
+eksctl = "latest"
+istioctl = "latest"

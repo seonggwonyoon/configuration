@@ -1,0 +1,20 @@
+{
+  "plugins": {
+    "fzf-lua": {
+      "rev": "eab53acb3fd36479f084f854b4418d02b5c70382",
+      "src": "https://github.com/ibhagwan/fzf-lua"
+    },
+    "gitsigns.nvim": {
+      "rev": "070a5d7b985546cc57e1fc61e5bc507fecac6045",
+      "src": "https://github.com/lewis6991/gitsigns.nvim"
+    },
+    "gruvbox.nvim": {
+      "rev": "154eb5ff5b96d0641307113fa385eaf0d36d9796",
+      "src": "https://github.com/ellisonleao/gruvbox.nvim"
+    },
+    "nvim-lspconfig": {
+      "rev": "a9bb4d5f4276aa5cddc015faa3ecc5a7b5a26b14",
+      "src": "https://github.com/neovim/nvim-lspconfig"
+    }
+  }
+}
